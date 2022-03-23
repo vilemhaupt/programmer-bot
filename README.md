@@ -5,7 +5,7 @@ This Bot is Open source, Feel free to edit, but no edit invite.js and contact co
 
 Very Easy setup
 
-Go to settings.yml and wrote your bot token
+Go to settings.json and wrote your bot token
 
 you can also change the bot prefix, by default it is !
 
