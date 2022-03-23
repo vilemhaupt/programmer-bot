@@ -9,6 +9,8 @@ Go to settings.yml and wrote your bot token
 
 you can also change the bot prefix, by default it is !
 
+npm init -y
+
 and type npm i (for install discord.js)
 
 Thanks https://github.com/pidizman and https://github.com/BlobDeveloper for help with moderation commands (Ban/Kick)
