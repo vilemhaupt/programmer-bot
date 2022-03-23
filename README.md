@@ -1,6 +1,8 @@
 # programmer-bot
 Open Source Programmer Bot (Discord.js)
 
+This Bot is Open source, Feel free to edit, but no edit invite.js and contact command (in index.js) (If you delete this, you are not eligible for official support)
+
 Very Easy setup
 
 Go to settings.yml and wrote your bot token
@@ -33,7 +35,7 @@ Thanks https://github.com/pidizman and https://github.com/BlobDeveloper for help
  userinfo
  
 
-This Bot is Open source, Feel free to edit, but no edit invite.js and contact command (in index.js) (If you delete this, you are not eligible for official support)
+
 
 
 
