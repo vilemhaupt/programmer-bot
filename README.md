@@ -1,7 +1,7 @@
 # programmer-bot
 Open Source Programmer Bot (Discord.js)
 
-This Bot is Open source, Feel free to edit, but no edit invite.js and contact command (in index.js) (If you delete this, you are not eligible for official support)
+This Bot is Open source, Feel free to edit
 
 Very Easy setup
 
